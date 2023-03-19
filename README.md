@@ -1,4 +1,4 @@
-# HyperBlog
+# HyperBlog 🔥
 Un blog increible para el curso de Git y GitHub de Platzi 
 
 >El curso de Git y GitHub de platzi es lo mejor.
